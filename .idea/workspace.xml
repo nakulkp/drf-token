@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="298bf7a4-9364-4243-8cbf-641722dde7e6" name="Default Changelist" comment="Initial" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1k8ttljy3CPJ1mXeTFMAjem28CA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="file.status.colors" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\valkyrie\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="298bf7a4-9364-4243-8cbf-641722dde7e6" name="Default Changelist" comment="" />
+      <created>1605094263390</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605094263390</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1605258562038</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605258562038</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial">
+      <created>1605265289386</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605265289386</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="first" />
+    <MESSAGE value="Initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="277" y="312" key="#Web_Browsers" timestamp="1605260360592">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="277" y="312" key="#Web_Browsers/0.0.1920.1040@0.0.1920.1040" timestamp="1605260360592" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605258014295">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605258014295" />
+    <state x="107" y="91" key="CommitChangelistDialog2" timestamp="1605258560952">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="107" y="91" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605258560952" />
+    <state x="365" y="181" key="FileChooserDialogImpl" timestamp="1605261192405">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="365" y="181" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605261192405" />
+    <state x="358" y="421" width="520" height="205" key="Github.ShareDialog" timestamp="1605265328946">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="358" y="421" width="520" height="205" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605265328946" />
+    <state x="0" y="164" key="SettingsEditor" timestamp="1605261337158">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605261337158" />
+    <state x="72" y="256" key="Vcs.Push.Dialog.v2" timestamp="1605260756687">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="72" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605260756687" />
+    <state x="297" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605260402125">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="297" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605260402125" />
+    <state x="-7" y="0" width="974" height="1047" key="dock-window-1" timestamp="1605157027190">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-7" y="0" width="974" height="1047" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1605157027190" />
+    <state x="0" y="161" width="952" height="738" key="dock-window-2" timestamp="1605159219594">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="161" width="952" height="738" key="dock-window-2/0.0.1920.1040@0.0.1920.1040" timestamp="1605159219594" />
+    <state x="-7" y="0" width="974" height="1047" key="dock-window-3" timestamp="1605160669790">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-7" y="0" width="974" height="1047" key="dock-window-3/0.0.1920.1040@0.0.1920.1040" timestamp="1605160669790" />
+    <state x="281" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605259465006">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="281" y="426" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605259465006" />
+  </component>
+</project>
