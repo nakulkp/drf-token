@@ -1,4 +1,6 @@
-# drf-token
+# Django Rest Framework Token(drf token)
+
+  (Uses the default token feture in DRF)
 
 Features:
 
